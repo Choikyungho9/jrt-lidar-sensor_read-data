@@ -5,4 +5,5 @@ JRT 레이저 거리측정기의 python 코드
 
 1. USB 연결
 2. 라즈베리 부팅
-3. 
+3. jrtsensor.py 실행
+4. 측정 시간은  s_snd = input_with_timeout('', 0.001) 에서 0.001부분을 수정
